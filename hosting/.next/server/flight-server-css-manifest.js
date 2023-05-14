@@ -1,0 +1,1 @@
+self.__RSC_CSS_MANIFEST={"cssImports":{},"cssModules":{"/Users/james/dev/test-nextjs/hosting/app/page":[],"/Users/james/dev/test-nextjs/hosting/app/day/page":[],"/Users/james/dev/test-nextjs/hosting/app/about/page":[]}}
